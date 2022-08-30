@@ -1,7 +1,9 @@
 {
   "name": "car-site",
   "version": "1.0.0",
-  "description": "car dealership website",
+  "scripts":{
+    "dev": "webpack"
+  },
   "dependencies": {
     "normalize.css": "^8.0.1"
   },
